@@ -107,7 +107,7 @@ async function getDrivingRoute(origin, destination) {
 
 function createLegend() {
   const legend = document.getElementById("legend");
-  const routeNumbers = [7, 6, 5, 4, 3, 2, 1];
+  const routeNumbers = [3, 2, 1];
 
   routeNumbers.forEach((routeNumber) => {
     const item = document.createElement("div");
@@ -121,30 +121,15 @@ function createLegend() {
     let yearRange = "";
 
     switch (routeNumber) {
-      case 1:
-        yearRange = "2020-21";
-        break;
       case 2:
-        yearRange = "2021-22";
+        yearRange = "2026";
         break;
       case 3:
-        yearRange = "2022-23";
-        break;
-      case 4:
-        yearRange = "2023-24";
-        break;
-      case 5:
-        yearRange = "2024-25";
-        break;
-      case 6:
-        yearRange = "2025";
-        break;
-      case 7:
-        yearRange = "2025";
+        yearRange = "2027";
         break;
     }
 
-    label.innerText = `Route ${routeNumber} (${yearRange})`;
+    label.innerText = routeNumber !== 1 ? `Route ${routeNumber - 1} (${yearRange})` : "Start";
 
     item.appendChild(color);
     item.appendChild(label);
@@ -226,8 +211,7 @@ map.on("load", async () => {
   const travelData = await (await fetch("./travel-data.json")).json();
   const routes = await (await fetch("./routes.json")).json();
 
-  // Don't need a route legend for this map at the moment since it only uses one color
-  // createLegend();
+  createLegend();
   await addTravelDataToMap(map, travelData, routes);
   preprocessDuplicateCoordinates();
   spreadMarkers();

@@ -209,9 +209,9 @@
     "past": false
   },
   {
-    "location": "Menifee, CA",
-    "coordinates": [-117.1859, 33.6971],
-    "visiting": "Katie & Jody",
+    "location": "Palm Springs, CA",
+    "coordinates": [-116.5453, 33.8303],
+    "visiting": "Toni & Rob",
     "stayDuration": "short",
     "year": 2026,
     "arrive": "March 2026",
@@ -242,20 +242,9 @@
     "past": false
   },
   {
-    "location": "Los Angeles, CA",
-    "coordinates": [-118.2437, 34.0522],
-    "visiting": "Toni & Rob",
-    "stayDuration": "short",
-    "year": 2026,
-    "arrive": "March 2026",
-    "depart": "March 2026",
-    "route": 2,
-    "past": false
-  },
-  {
-    "location": "Angeles National Forest, CA",
-    "coordinates": [-118.0036, 34.3758],
-    "visiting": "",
+    "location": "Menifee, CA",
+    "coordinates": [-117.1859, 33.6971],
+    "visiting": "Katie Garcia",
     "stayDuration": "short",
     "year": 2026,
     "arrive": "March 2026",
@@ -308,8 +297,8 @@
     "past": false
   },
   {
-    "location": "Sequoia National Park, CA",
-    "coordinates": [-118.773, 36.4864],
+    "location": "Santa Cruz, CA",
+    "coordinates": [-122.0308, 36.9741],
     "visiting": "",
     "stayDuration": "short",
     "year": 2026,
@@ -319,8 +308,8 @@
     "past": false
   },
   {
-    "location": "Yosemite National Park, CA",
-    "coordinates": [-119.5383, 37.8651],
+    "location": "San Francisco, CA",
+    "coordinates": [-122.4194, 37.7749],
     "visiting": "",
     "stayDuration": "short",
     "year": 2026,
@@ -330,8 +319,8 @@
     "past": false
   },
   {
-    "location": "Lake Tahoe, CA",
-    "coordinates": [-120.0433, 39.0968],
+    "location": "Phillip Burton Wilderness, CA",
+    "coordinates": [-122.9002, 38.0833],
     "visiting": "",
     "stayDuration": "short",
     "year": 2026,
@@ -341,8 +330,8 @@
     "past": false
   },
   {
-    "location": "Plumas National Forest, CA",
-    "coordinates": [-120.942, 39.942],
+    "location": "Point Reyes National Seashore, CA",
+    "coordinates": [-122.9749, 38.0697],
     "visiting": "",
     "stayDuration": "short",
     "year": 2026,
@@ -352,9 +341,9 @@
     "past": false
   },
   {
-    "location": "Mt. Shasta, CA",
-    "coordinates": [-122.3126, 41.4092],
-    "visiting": "Shasta-Trinity National Forest",
+    "location": "Eureka, CA",
+    "coordinates": [-124.1637, 40.8021],
+    "visiting": "",
     "stayDuration": "short",
     "year": 2026,
     "arrive": "April 2026",
@@ -363,8 +352,8 @@
     "past": false
   },
   {
-    "location": "Crater Lake, OR",
-    "coordinates": [-122.1685, 42.9446],
+    "location": "Siuslaw National Forest, OR",
+    "coordinates": [-123.9691, 44.3631],
     "visiting": "",
     "stayDuration": "short",
     "year": 2026,
@@ -828,6 +817,17 @@
     "location": "Charlotte, NC",
     "coordinates": [-80.8431, 35.2271],
     "visiting": "Sharon & Brian Foote",
+    "stayDuration": "short",
+    "year": 2027,
+    "arrive": "April 2027",
+    "depart": "April 2027",
+    "route": 3,
+    "past": false
+  },
+  {
+    "location": "Clayton, NC",
+    "coordinates": [-78.4564, 35.6507],
+    "visiting": "Doug & Judy, 324 Riverstone Drive",
     "stayDuration": "short",
     "year": 2027,
     "arrive": "April 2027",

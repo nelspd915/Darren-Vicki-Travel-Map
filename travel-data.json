@@ -374,6 +374,17 @@
     "past": false
   },
   {
+    "location": "Portland, OR",
+    "coordinates": [-122.6762, 45.5236],
+    "visiting": "Stephanie & Mark Bolme",
+    "stayDuration": "short",
+    "year": 2026,
+    "arrive": "April 2026",
+    "depart": "April 2026",
+    "route": 2,
+    "past": false
+  },
+  {
     "location": "Columbia River Gorge, OR",
     "coordinates": [-121.7, 45.7],
     "visiting": "",

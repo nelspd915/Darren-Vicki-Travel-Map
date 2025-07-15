@@ -165,6 +165,17 @@
     "past": false
   },
   {
+    "location": "Sun City West, AZ",
+    "coordinates": [-112.3535, 33.6762],
+    "visiting": "Tom Simard",
+    "stayDuration": "short",
+    "year": 2026,
+    "arrive": "February 2026",
+    "depart": "February 2026",
+    "route": 2,
+    "past": false
+  },
+  {
     "location": "Grand Canyon National Park, AZ",
     "coordinates": [-112.1401, 36.0544],
     "visiting": "",
@@ -363,9 +374,9 @@
     "past": false
   },
   {
-    "location": "Mt. Angel, OR",
-    "coordinates": [-122.7781, 45.0667],
-    "visiting": "Cheryl & Jon Wizneski",
+    "location": "Eugene, OR",
+    "coordinates": [-123.0868, 44.0521],
+    "visiting": "Stephanie & Mark Bolme",
     "stayDuration": "short",
     "year": 2026,
     "arrive": "April 2026",
@@ -374,9 +385,9 @@
     "past": false
   },
   {
-    "location": "Portland, OR",
-    "coordinates": [-122.6762, 45.5236],
-    "visiting": "Stephanie & Mark Bolme",
+    "location": "Mt. Angel, OR",
+    "coordinates": [-122.7781, 45.0667],
+    "visiting": "Cheryl & Jon Wizneski",
     "stayDuration": "short",
     "year": 2026,
     "arrive": "April 2026",
